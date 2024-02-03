@@ -11,4 +11,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/glass minigame.unity
     guid: e40e3bc8b6cc4294f92b6379b0f6d660
+  - enabled: 1
+    path: Assets/Scenes/electric minigame.unity
+    guid: fa1fd42fb31189349b8e00767d6c81b8
+  - enabled: 1
+    path: Assets/Scenes/ondel-ondel minigame.unity
+    guid: 1d8e38a86d382fe4cbb3f03d1c4ff7c6
+  - enabled: 1
+    path: Assets/Scenes/box sort.unity
+    guid: a97c5f7dfaf4e984b8227a25ccf43f26
   m_configObjects: {}
